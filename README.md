@@ -13,4 +13,4 @@ Included here are STL files of two chainmail designs for easy printing, as well 
 * `fabric-2.stl` has links 12mm wide and 9mm high, and struts 2mm in diameter
 * `fabric.f3d` is the original parametric CAD file, presented here so you can reconfigure link width, link height, strut diameter, and build platform size. Once you’ve opened the file in Autodesk Fusion 360, you can open the parameters table to adjust the link design.
 
-![Fusion 360 parameters table screenshot](images/parameters.png)
+![Fusion 360 parameters table screenshot](images/fusion-360-screenshot.png)
